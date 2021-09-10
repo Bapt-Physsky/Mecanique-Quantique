@@ -1,0 +1,151 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}OUTILS MATHÉMATIQUES}{11}%
+\contentsline {section}{\numberline {1.1}Espace des fonctions d'ondes}{11}%
+\contentsline {subsection}{\numberline {1.1.1}Structure de l'espace $\mathfrak {F}$ des fonctions d'ondes}{11}%
+\contentsline {subsubsection}{A : $\mathfrak {F}$ est un espace vectoriel}{11}%
+\contentsline {subsubsection}{B : Le produit scalaire}{12}%
+\contentsline {subsection}{\numberline {1.1.2}Bases orthonormées discrètes dans $\mathfrak {F}$ : $\lbrace u_i (r)\rbrace $}{12}%
+\contentsline {subsubsection}{A : Définition}{12}%
+\contentsline {subsubsection}{B : Composante d'une fonction d'onde sur la base $\lbrace u_i (r) \rbrace $}{12}%
+\contentsline {subsubsection}{C : Expression du produit scalaire}{12}%
+\contentsline {subsubsection}{D : Relation de fermeture}{13}%
+\contentsline {subsection}{\numberline {1.1.3}Opérateurs linéaires}{13}%
+\contentsline {subsubsection}{A : Définition}{13}%
+\contentsline {subsubsection}{B : Produit d'opérateur}{14}%
+\contentsline {section}{\numberline {1.2}Espace des états : notation de Dirac}{14}%
+\contentsline {subsection}{\numberline {1.2.1}Introduction}{14}%
+\contentsline {subsection}{\numberline {1.2.2}Vecteur \enquote {bra} et \enquote {ket}}{14}%
+\contentsline {subsubsection}{A : Élément de $\mathcal {E}$ ket}{14}%
+\contentsline {subsubsection}{B : Élément de $\mathcal {E}^{\mathsf {x}}$ ($\mathcal {E}^{\mathsf {x}}$ est le dual de $\mathcal {E}$)}{14}%
+\contentsline {subsubsection}{C : Notation de Dirac pour les produits scalaire}{14}%
+\contentsline {subsection}{\numberline {1.2.3}Opérateur linéaire}{14}%
+\contentsline {subsection}{\numberline {1.2.4}Conjugaison hermitienne}{15}%
+\contentsline {subsubsection}{A : Opérateur adjoint $A^{\dagger }$ d'un opérateur linéaire}{15}%
+\contentsline {subsubsection}{B : Propriétés et correspondance entre opérateur et son adjoint}{16}%
+\contentsline {subsubsection}{C : Conjugaison hermitique}{16}%
+\contentsline {section}{\numberline {1.3}Représentation dans l'espace de Dirac}{16}%
+\contentsline {subsection}{\numberline {1.3.1}Introduction}{16}%
+\contentsline {subsection}{\numberline {1.3.2}Relation caractéristique d'une base orthonormée}{17}%
+\contentsline {subsubsection}{A : La relation d'orthonormalisation}{17}%
+\contentsline {subsubsection}{B : La relation de fermeture}{17}%
+\contentsline {subsection}{\numberline {1.3.3}Représentation des kets et des bras}{17}%
+\contentsline {subsubsection}{A : Représentation d'un ket}{17}%
+\contentsline {subsubsection}{B : Représentation d'un bra}{17}%
+\contentsline {subsection}{\numberline {1.3.4}Représentation matricielle d'un opérateur}{17}%
+\contentsline {subsubsection}{A : Représentation de A par une matrice carrée}{17}%
+\contentsline {subsubsection}{B : Représentation matricielle du ket $\mathinner {|{\Psi '}\rangle } = A \mathinner {|{\Psi }\rangle }$}{18}%
+\contentsline {subsubsection}{C : Représentation matricielle de l'adjoint $A^{\dagger }$ de A}{18}%
+\contentsline {subsection}{\numberline {1.3.5}Changement de représentation}{18}%
+\contentsline {subsubsection}{A : Position du problème}{18}%
+\contentsline {subsubsection}{B : Transformer les composantes d'un ket}{18}%
+\contentsline {subsubsection}{C : Transformation d'un bra}{19}%
+\contentsline {subsubsection}{D : Transformation des éléments de matrices}{19}%
+\contentsline {section}{\numberline {1.4}Équation aux valeurs propres}{19}%
+\contentsline {subsection}{\numberline {1.4.1}Vecteurs propres et valeurs propres d'un opérateur}{19}%
+\contentsline {subsubsection}{A : Recherche des valeurs propres d'un opérateur}{20}%
+\contentsline {subsubsection}{B : L'équation caractéristique}{20}%
+\contentsline {subsubsection}{B : Détermination des vecteurs propres}{20}%
+\contentsline {subsection}{\numberline {1.4.2}Les Observables}{21}%
+\contentsline {subsubsection}{A : Propriétés des valeurs propres d'un opérateur hermitique}{21}%
+\contentsline {subsubsection}{B : Définition d'une observable}{21}%
+\contentsline {subsection}{\numberline {1.4.3}Ensemble d'observables qui commutent}{22}%
+\contentsline {subsubsection}{A : Trois théorèmes importants}{22}%
+\contentsline {subsubsection}{B : Ensemble complet d'observable qui commutent (Ecoc)}{24}%
+\contentsline {chapter}{\numberline {2}LES POSTULATS DE LA MÉCANIQUE QUANTIQUE}{25}%
+\contentsline {section}{\numberline {2.1}Énoncé des postulats}{25}%
+\contentsline {subsection}{\numberline {2.1.1}Description de l'état d'un système}{25}%
+\contentsline {subsection}{\numberline {2.1.2}Description des grandeurs physiques}{25}%
+\contentsline {subsection}{\numberline {2.1.3}Mesure des grandeurs physiques}{25}%
+\contentsline {subsubsection}{A : Troisième postulat}{25}%
+\contentsline {subsubsection}{B : Principe de la décomposition spectrale}{26}%
+\contentsline {subsubsection}{Quatrième postulat}{27}%
+\contentsline {subsubsection}{C : Réduction du paquets d'ondes}{27}%
+\contentsline {subsubsection}{Cinquième postulat}{28}%
+\contentsline {subsection}{\numberline {2.1.4}Évolution du système dans le temps}{28}%
+\contentsline {subsubsection}{Sixième postulat}{28}%
+\contentsline {subsection}{\numberline {2.1.5}Règle de quantification}{28}%
+\contentsline {section}{\numberline {2.2}Interprétation des postulats sur les observables et leurs mesures}{29}%
+\contentsline {subsection}{\numberline {2.2.1}Valeur moyenne d'une observable dans un état donné}{29}%
+\contentsline {subsection}{\numberline {2.2.2}Écart quadratique moyen}{30}%
+\contentsline {subsection}{\numberline {2.2.3}Compatibilité des observables}{30}%
+\contentsline {section}{\numberline {2.3}Contenu physique de l'équation de Schrödinger}{31}%
+\contentsline {subsection}{\numberline {2.3.1}Propriété générale de l'équation de Schrödinger}{31}%
+\contentsline {subsubsection}{A : Déterminisme}{31}%
+\contentsline {subsubsection}{B : Le principe de superposition}{31}%
+\contentsline {subsubsection}{C : Conservation de la norme d'un ket}{31}%
+\contentsline {subsubsection}{D : Évolution de la valeur moyenne d'une observable}{31}%
+\contentsline {subsubsection}{E : Cas d'un système conservatif}{32}%
+\contentsline {subsubsection}{F : Résolution de l'équation de Schrödinger}{32}%
+\contentsline {subsubsection}{Complément : Opérateur d'évolution}{33}%
+\contentsline {subsubsection}{Cas d'un système conservatif}{34}%
+\contentsline {chapter}{\numberline {3}LE MAGNÉTISME ATOMIQUE}{37}%
+\contentsline {section}{\numberline {3.1}Introduction}{37}%
+\contentsline {section}{\numberline {3.2}Magnétisme classique}{38}%
+\contentsline {section}{\numberline {3.3}La précession de Larmor}{40}%
+\contentsline {section}{\numberline {3.4}Quantification du moment cinétique}{41}%
+\contentsline {subsection}{\numberline {3.4.1}Description de l'appareil}{41}%
+\contentsline {subsection}{\numberline {3.4.2}Calcul classique de la déviation}{41}%
+\contentsline {subsection}{\numberline {3.4.3}Résultat et conclusion}{42}%
+\contentsline {subsection}{\numberline {3.4.4}Description théorique}{43}%
+\contentsline {subsection}{\numberline {3.4.5}L'observable $S_z$ et l'espace des états du spin}{43}%
+\contentsline {subsection}{\numberline {3.4.6}Les autres composantes $S_x$ et $S_y$}{43}%
+\contentsline {subsection}{\numberline {3.4.7}Évolution d'un spin 1/2 dans un champ magnétique uniforme}{44}%
+\contentsline {subsubsection}{A : Hamiltonien d'intersection et équation de Schrödinger}{44}%
+\contentsline {subsubsection}{B : Précession de Larmor}{45}%
+\contentsline {chapter}{\numberline {4}OUTILS MATHÉMATIQUES 2}{47}%
+\contentsline {section}{\numberline {4.1}Introduction de bases n'appartenant pas à $\mathfrak {F}$}{47}%
+\contentsline {subsection}{\numberline {4.1.1}Onde plane}{47}%
+\contentsline {subsection}{\numberline {4.1.2}Rappel sur la transformée de Fourier}{47}%
+\contentsline {subsection}{\numberline {4.1.3}La base $\lbrace v_p (x) \rbrace $ vérifie la relation de fermeture}{47}%
+\contentsline {subsection}{\numberline {4.1.4}La généralisation aux fonctions à trois dimensions}{48}%
+\contentsline {section}{\numberline {4.2}La fonction delta}{49}%
+\contentsline {subsection}{\numberline {4.2.1}Introduction}{49}%
+\contentsline {subsection}{\numberline {4.2.2}Propriété de la fonction delta}{49}%
+\contentsline {section}{\numberline {4.3}Deux exemples important de représentations et d'observables}{50}%
+\contentsline {subsection}{\numberline {4.3.1}Les représentation $\lbrace \mathinner {|{r}\rangle } \rbrace $ et $\lbrace \mathinner {|{p}\rangle } \rbrace $}{50}%
+\contentsline {subsubsection}{A : Définition}{50}%
+\contentsline {subsubsection}{B : Relation d'orthogonalisation et de fermeture}{50}%
+\contentsline {subsubsection}{C : Composante d'un ket $\mathinner {|{\Psi }\rangle }$}{51}%
+\contentsline {subsubsection}{D : Produit scalaire de deux kets}{52}%
+\contentsline {subsubsection}{E : Passage d'une représentation à l'autre}{52}%
+\contentsline {section}{\numberline {4.4}Les opérateurs R et P}{53}%
+\contentsline {subsection}{\numberline {4.4.1}Définition}{53}%
+\contentsline {subsection}{\numberline {4.4.2}Action de l'opérateur P en représentation $\lbrace \mathinner {|{r}\rangle } \rbrace $}{53}%
+\contentsline {subsection}{\numberline {4.4.3}Action de l'opérateur X en représentation $\lbrace \mathinner {|{p}\rangle } \rbrace $}{54}%
+\contentsline {subsection}{\numberline {4.4.4}Calcul des commutateurs $[X, P_x]$, $[Y, P_y]$ et $[Z, P_z]$}{54}%
+\contentsline {subsection}{\numberline {4.4.5}R et P sont hermitiques}{54}%
+\contentsline {subsection}{\numberline {4.4.6}Vecteurs propres de R et P}{55}%
+\contentsline {chapter}{\numberline {5}PRODUIT TENSORIEL}{57}%
+\contentsline {section}{\numberline {5.1}Introduction}{57}%
+\contentsline {section}{\numberline {5.2}Définition et propriétés du produit tensoriel}{57}%
+\contentsline {subsection}{\numberline {5.2.1}Produit scalaire}{58}%
+\contentsline {subsection}{\numberline {5.2.2}Produit tensoriel d'opérateurs}{59}%
+\contentsline {subsection}{\numberline {5.2.3}Notation}{59}%
+\contentsline {section}{\numberline {5.3}Équations aux valeurs propres}{59}%
+\contentsline {subsection}{\numberline {5.3.1}Valeurs et vecteurs propres d'opérateurs prolongés}{59}%
+\contentsline {subsubsection}{A : Équations aux valeurs propres de $A(1)$}{59}%
+\contentsline {subsubsection}{B : Équations aux valeurs propres de $A(1) + B(2)$}{60}%
+\contentsline {section}{\numberline {5.4}Ensemble Complet d'Observables qui Commutent dans $\mathcal {E}_1$}{60}%
+\contentsline {chapter}{\numberline {6}POTENTIEL A UNE DIMENSION CONSTANT PAR MORCEAU}{61}%
+\contentsline {section}{\numberline {6.1}Introduction}{61}%
+\contentsline {section}{\numberline {6.2}Propriété générale des problèmes à une dimension}{62}%
+\contentsline {subsection}{\numberline {6.2.1}La continuité de la fonction d'onde et de sa dérivée}{63}%
+\contentsline {subsection}{\numberline {6.2.2}Le théorème de Wronshien}{63}%
+\contentsline {subsection}{\numberline {6.2.3}Tout état lié à une dimension est non dégénérée}{64}%
+\contentsline {subsection}{\numberline {6.2.4}Les états liés sont deux à deux orthogonaux entre eux}{64}%
+\contentsline {subsection}{\numberline {6.2.5}Toute valeur propre de $H$ ne peut être inférieure au minimum de V(x)}{64}%
+\contentsline {section}{\numberline {6.3}Cas des puits symétriques V(x) = V(-x)}{65}%
+\contentsline {chapter}{\numberline {7}L'OSCILLATEUR HARMONIQUE}{67}%
+\contentsline {chapter}{\numberline {8}LES ÉTATS NON LIÉS}{83}%
+\contentsline {chapter}{\numberline {9}LE MOMENT CINÉTIQUE}{91}%
+\contentsline {chapter}{\numberline {10}LA THÉORIE DES PERTURBATIONS}{117}%
+\contentsline {chapter}{\numberline {11}L'ESSENTIEL DU COURS}{137}%
+\contentsline {section}{\numberline {11.1}Outils Mathématiques 1}{137}%
+\contentsline {section}{\numberline {11.2}Les postulats}{137}%
+\contentsline {section}{\numberline {11.3}Le magnétisme atomique}{137}%
+\contentsline {section}{\numberline {11.4}Outils Mathématiques 2}{137}%
+\contentsline {section}{\numberline {11.5}Produit tensoriel}{137}%
+\contentsline {section}{\numberline {11.6}Potentiel à une dimension constant par morceau}{137}%
+\contentsline {section}{\numberline {11.7}L'oscillateur harmonique}{137}%
+\contentsline {section}{\numberline {11.8}Les états non liés}{137}%
+\contentsline {section}{\numberline {11.9}Le moment cinétique}{137}%

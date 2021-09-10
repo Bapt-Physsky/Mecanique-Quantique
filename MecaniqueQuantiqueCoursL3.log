@@ -1,0 +1,2441 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.17)  10 SEP 2021 19:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MecaniqueQuantiqueCoursL3.tex
+(./MecaniqueQuantiqueCoursL3.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2020/01/30 v3.5g French support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count177
+)
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language4) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language4) on input line 92.
+\FB@nonchar=\count178
+Package babel Info: Making : an active character on input line 419.
+Package babel Info: Making ; an active character on input line 420.
+Package babel Info: Making ! an active character on input line 421.
+Package babel Info: Making ? an active character on input line 422.
+\FBguill@level=\count179
+\FBold@everypar=\toks16
+\FB@Mht=\dimen136
+\mc@charclass=\count180
+\mc@charfam=\count181
+\mc@charslot=\count182
+\std@mcc=\count183
+\dec@mcc=\count184
+\c@FBcaption@count=\count185
+\listindentFB=\dimen137
+\descindentFB=\dimen138
+\labelindentFB=\dimen139
+\labelwidthFB=\dimen140
+\leftmarginFB=\dimen141
+\parindentFFN=\dimen142
+\FBfnindent=\dimen143
+))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen144
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count186
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count187
+\leftroot@=\count188
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count189
+\DOTSCASE@=\count190
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
+\dotsspace@=\muskip16
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks19
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks20
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen155
+\captionmargin@=\dimen156
+\captionwidth=\dimen157
+\caption@tempdima=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
+)
+\c@subfigure=\count266
+\c@subtable=\count267
+)
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count268
+)
+\csq@reset=\count269
+\csq@gtype=\count270
+\csq@glevel=\count271
+\csq@qlevel=\count272
+\csq@maxlvl=\count273
+\csq@tshold=\count274
+\csq@ltx@everypar=\toks23
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Option 'babel' depreciated.
+(csquotes)             Using 'autostyle'.
+Package csquotes Info: Enabling multilingual quotes.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen162
+\Gm@wd@mp=\dimen163
+\Gm@odd@mp=\dimen164
+\Gm@even@mp=\dimen165
+\Gm@layoutwidth=\dimen166
+\Gm@layoutheight=\dimen167
+\Gm@layouthoffset=\dimen168
+\Gm@layoutvoffset=\dimen169
+\Gm@dimlist=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count278
+\calc@Bcount=\count279
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count280
+\calc@Cskip=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen172
+\AM@pageheight=\dimen173
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box47
+\AM@global@opts=\toks25
+\AM@pagecnt=\count281
+\AM@toc@title=\toks26
+\c@AM@survey=\count282
+\AM@templatesizebox=\box48
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count283
+\l__pdf_internal_box=\box49
+)
+(./MecaniqueQuantiqueCoursL3.aux)
+\openout1 = `MecaniqueQuantiqueCoursL3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Info: Redefining \degres on input line 20.
+LaTeX Info: Redefining \dots on input line 20.
+LaTeX Info: Redefining \up on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen174
+\scratchbox=\box50
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen175
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box51
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1]
+<memereddit.png, id=11, 604.2575pt x 604.2575pt>
+File: memereddit.png Graphic file (type png)
+<use memereddit.png>
+Package pdftex.def Info: memereddit.png  used on input line 27.
+(pdftex.def)             Requested size: 302.128pt x 302.128pt.
+<memereddit2.png, id=13, 1084.05pt x 1119.18124pt>
+File: memereddit2.png Graphic file (type png)
+<use memereddit2.png>
+Package pdftex.def Info: memereddit2.png  used on input line 28.
+(pdftex.def)             Requested size: 216.80615pt x 223.83228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+[2 <./memereddit.png> <./memereddit2.png>] [3] (./MecaniqueQuantiqueCoursL3.toc
+LaTeX Font Info:    Trying to load font information for U+euf on input line 4.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+) [1
+
+] [2])
+\tf@toc=\write3
+\openout3 = `MecaniqueQuantiqueCoursL3.toc'.
+
+ [3]
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[5] [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 68--69
+[]$\OML/cmm/m/it/12 ^^Y$ \T1/cmr/m/n/12 : Pi, nombre ir-ra-tion-nel, par-fois a
+p-pelé constante d'Ar-chi-mède. $\OML/cmm/m/it/12 ^^Y \OMS/cmsy/m/n/12 ^^Y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--93
+
+ []
+
+[7] [8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+[10]
+Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+
+ []
+
+
+Overfull \hbox (2.69344pt too wide) detected at line 138
+\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 	([]\OML/cmm/m/it/12 ; t\OT1/cmr/m/n/12 )\OMS
+/cmsy/m/n/12 j[]  \OT1/cmr/m/n/12 =  \OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 ^^U[]\O
+MS/cmsy/m/n/12 j[]j\OT1/cmr/m/n/12 	[]([]\OML/cmm/m/it/12 ; t\OT1/cmr/m/n/12 )\
+OMS/cmsy/m/n/12 j[]  \OT1/cmr/m/n/12 +  \OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 ^^U[
+]\OMS/cmsy/m/n/12 j[]\OT1/cmr/m/n/12 	[]([]\OML/cmm/m/it/12 ; t\OT1/cmr/m/n/12 
+)  +  \OML/cmm/m/it/12 ^^U[]^^U[]\OT1/cmr/m/n/12 	[]([]\OML/cmm/m/it/12 ; t\OT1
+/cmr/m/n/12 )	[]([]\OML/cmm/m/it/12 ; t\OT1/cmr/m/n/12 )  +  \OML/cmm/m/it/12 ^
+^U[]^^U[]\OT1/cmr/m/n/12 	[]([]\OML/cmm/m/it/12 ; t\OT1/cmr/m/n/12 )	[]([]\OML/
+cmm/m/it/12 ; t\OT1/cmr/m/n/12 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+[13]
+Overfull \hbox (9.24246pt too wide) in paragraph at lines 259--261
+\T1/cmr/m/n/12 En règle gé-né-rale : $\OML/cmm/m/it/12 AB  \OMS/cmsy/m/n/12 6\O
+T1/cmr/m/n/12 =  \OML/cmm/m/it/12 BA$\T1/cmr/m/n/12 . On ap-pel com-mu-ta-teur 
+de A et B l'opé-ra-teur : $\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 A; B\OT1/cmr/m/n/1
+2 ]  =  \OML/cmm/m/it/12 AB  \OMS/cmsy/m/n/12 ^^@  \OML/cmm/m/it/12 BA$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
+ []
+
+[17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 597--598
+
+ []
+
+
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+ [19]
+Underfull \hbox (badness 10000) in paragraph at lines 616--617
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 711--713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--719
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 775--776
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--778
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 809--810
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 811--812
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--814
+
+ []
+
+[24]
+Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--858
+
+ []
+
+[25
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 882--883
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 936--938
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--961
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 964--965
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--972
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 973--974
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--976
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--980
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 987--988
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--994
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 995--996
+
+ []
+
+
+Overfull \hbox (20.50516pt too wide) has occurred while \output is active
+\T1/cmr/m/sl/12 2.2.  INTERPRÉTATION DES POSTULATS SUR LES OBSERVABLES ET LEURS
+ MESURES \T1/cmr/m/n/12 29
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+
+ []
+
+[30]
+Overfull \hbox (2.99443pt too wide) detected at line 1151
+[] [] \OT1/cmr/m/n/12 = [] [] + [] = \OMS/cmsy/m/n/12 ^^@[] [] \OT1/cmr/m/n/12 
++ [] [] = 0
+ []
+
+[31] [32] [33] [34] [35] [36
+
+]
+Chapitre 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1343--1344
+
+ []
+
+<SternGerlach2.jpg, id=158, 490.83376pt x 381.425pt>
+File: SternGerlach2.jpg Graphic file (type jpg)
+<use SternGerlach2.jpg>
+Package pdftex.def Info: SternGerlach2.jpg  used on input line 1352.
+(pdftex.def)             Requested size: 294.50252pt x 228.85675pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1345--1359
+
+ []
+
+[37 <./SternGerlach2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1374--1375
+
+ []
+
+<cartesienne_a_cylindriques.png, id=162, 685.66162pt x 485.11238pt>
+File: cartesienne_a_cylindriques.png Graphic file (type png)
+<use cartesienne_a_cylindriques.png>
+Package pdftex.def Info: cartesienne_a_cylindriques.png  used on input line 137
+8.
+(pdftex.def)             Requested size: 342.82997pt x 242.55559pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1468
+
+ []
+
+[39 <./cartesienne_a_cylindriques.png>]
+
+LaTeX Warning: Command \textmu invalid in math mode on input line 1471.
+
+
+LaTeX Warning: Command \textmu invalid in math mode on input line 1471.
+
+Missing character: There is no µ in font cmr12!
+
+LaTeX Warning: Command \textmu invalid in math mode on input line 1475.
+
+
+LaTeX Warning: Command \textmu invalid in math mode on input line 1475.
+
+Missing character: There is no µ in font cmr12!
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1526
+
+ []
+
+<exp_stern_gerlach_zx_pov_y.png, id=179, 346.896pt x 238.491pt>
+File: exp_stern_gerlach_zx_pov_y.png Graphic file (type png)
+<use exp_stern_gerlach_zx_pov_y.png>
+Package pdftex.def Info: exp_stern_gerlach_zx_pov_y.png  used on input line 152
+8.
+(pdftex.def)             Requested size: 208.13919pt x 143.09569pt.
+<exp_stern_gerlach_zy_pov_x.png, id=180, 346.896pt x 238.491pt>
+File: exp_stern_gerlach_zy_pov_x.png Graphic file (type png)
+<use exp_stern_gerlach_zy_pov_x.png>
+Package pdftex.def Info: exp_stern_gerlach_zy_pov_x.png  used on input line 152
+9.
+(pdftex.def)             Requested size: 208.13919pt x 143.09569pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1534
+
+ []
+
+[41 <./exp_stern_gerlach_zx_pov_y.png> <./exp_stern_gerlach_zy_pov_x.png>]
+<results-stern-gerlach.png, id=186, 301.125pt x 202.50656pt>
+File: results-stern-gerlach.png Graphic file (type png)
+<use results-stern-gerlach.png>
+Package pdftex.def Info: results-stern-gerlach.png  used on input line 1585.
+(pdftex.def)             Requested size: 301.12425pt x 202.50604pt.
+
+[42 <./results-stern-gerlach.png>] [43] [44]
+Underfull \hbox (badness 10000) in paragraph at lines 1787--1788
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+
+ []
+
+[45] [46
+
+]
+Chapitre 4.
+[47] [48]
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1908
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1910
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1923
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1925
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1927
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1928--1929
+
+ []
+
+
+Overfull \hbox (14.59229pt too wide) in paragraph at lines 1930--1931
+[]\T1/cmr/m/n/12 Considérons un en-semble de fonc-tion de $[]  []$ re-pé-rées p
+ar l'in-dice conti-nue $[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[]; y[]; z[]\OT1/c
+mr/m/n/12 )$
+ []
+
+[49] [50]
+Underfull \hbox (badness 10000) in paragraph at lines 2004--2006
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2013
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2014--2015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2022
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2046--2047
+
+ []
+
+[51] [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+[54] [55] [56
+
+]
+Chapitre 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2198--2199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2267--2268
+[]\T1/cmr/m/it/12 Source : https ://math-linux.com/latex-26/faq/latex-faq/artic
+le/latex-produit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2200--2271
+
+ []
+
+[57] [58] [59] [60]
+Chapitre 6.
+<6-1-puits-de-potentiel-ok.png, id=250, 602.25pt x 191.9672pt>
+File: 6-1-puits-de-potentiel-ok.png Graphic file (type png)
+<use 6-1-puits-de-potentiel-ok.png>
+Package pdftex.def Info: 6-1-puits-de-potentiel-ok.png  used on input line 2428
+.
+(pdftex.def)             Requested size: 180.67639pt x 57.59059pt.
+<6-1-effet-tunnel-ok.png, id=251, 602.25pt x 225.84375pt>
+File: 6-1-effet-tunnel-ok.png Graphic file (type png)
+<use 6-1-effet-tunnel-ok.png>
+Package pdftex.def Info: 6-1-effet-tunnel-ok.png  used on input line 2434.
+(pdftex.def)             Requested size: 180.67639pt x 67.75363pt.
+<6-1-marche-potentiel-ok.png, id=252, 602.25pt x 210.7875pt>
+File: 6-1-marche-potentiel-ok.png Graphic file (type png)
+<use 6-1-marche-potentiel-ok.png>
+Package pdftex.def Info: 6-1-marche-potentiel-ok.png  used on input line 2440.
+(pdftex.def)             Requested size: 180.67639pt x 63.23672pt.
+[61
+
+ <./6-1-puits-de-potentiel-ok.png> <./6-1-effet-tunnel-ok.png> <./6-1-marche-po
+tentiel-ok.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2499--2500
+
+ []
+
+[62]
+<6_2_1-V-x.png, id=262, 602.25pt x 451.6875pt>
+File: 6_2_1-V-x.png Graphic file (type png)
+<use 6_2_1-V-x.png>
+Package pdftex.def Info: 6_2_1-V-x.png  used on input line 2502.
+(pdftex.def)             Requested size: 240.89572pt x 180.67178pt.
+ [63 <./6_2_1-V-x.png>]
+<6-2-4-Confinement.png, id=267, 602.25pt x 167.87718pt>
+File: 6-2-4-Confinement.png Graphic file (type png)
+<use 6-2-4-Confinement.png>
+Package pdftex.def Info: 6-2-4-Confinement.png  used on input line 2574.
+(pdftex.def)             Requested size: 240.89572pt x 67.14967pt.
+<6_2_5-figure1.png, id=268, 602.25pt x 451.6875pt>
+File: 6_2_5-figure1.png Graphic file (type png)
+<use 6_2_5-figure1.png>
+Package pdftex.def Info: 6_2_5-figure1.png  used on input line 2586.
+(pdftex.def)             Requested size: 240.89572pt x 180.67178pt.
+ [64 <./6-2-4-Confinement.png>]
+<6-2-5-figure2-ok.png, id=273, 602.25pt x 143.03438pt>
+File: 6-2-5-figure2-ok.png Graphic file (type png)
+<use 6-2-5-figure2-ok.png>
+Package pdftex.def Info: 6-2-5-figure2-ok.png  used on input line 2592.
+(pdftex.def)             Requested size: 240.89572pt x 57.21272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2607--2609
+
+ []
+
+
+Overfull \hbox (0.59933pt too wide) in paragraph at lines 2610--2611
+\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )	(\OMS/cm
+sy/m/n/12 ^^@\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12 ; $\OML/cmm/m/
+it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12 est
+ une fonc-tion paire. Cal-cu-lons $\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/
+m/it/12 x\OT1/cmr/m/n/12 )^^E	(\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = \OML/cmm/m
+/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )	(\OMS/cmsy/m/n/12 
+^^@\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 , d'où $\OT1/cmr/m/n/12 [
+\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/
+m/it/12 ; \OT1/cmr/m/n/12 ^^E] =
+ []
+
+[65 <./6_2_5-figure1.png> <./6-2-5-figure2-ok.png>] [66
+
+]
+Chapitre 7.
+[67]
+<cours-oscillateur-part1.pdf, id=285, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf>
+Package pdftex.def Info: cours-oscillateur-part1.pdf  used on input line 2617.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf>
+Package pdftex.def Info: cours-oscillateur-part1.pdf  used on input line 2617.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<cours-oscillateur-part1.pdf, id=288, page=1, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page1 used on input line
+ 2617.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page1 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page1 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page1 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page1 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [68 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part1.pdf, id=294, page=2, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 2>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page2 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 2>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page2 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 2>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page2 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [69 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part1.pdf, id=300, page=3, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 3>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page3 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 3>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page3 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 3>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page3 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [70 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part1.pdf, id=305, page=4, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 4>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page4 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 4>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page4 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 4>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page4 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [71 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part1.pdf, id=310, page=5, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 5>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page5 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 5>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page5 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 5>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page5 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [72 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part1.pdf, id=315, page=6, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 6>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page6 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 6>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page6 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 6>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page6 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [73 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part1.pdf, id=320, page=7, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 7>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page7 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 7>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page7 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part1.pdf Graphic file (type pdf)
+<use cours-oscillateur-part1.pdf, page 7>
+Package pdftex.def Info: cours-oscillateur-part1.pdf , page7 used on input line
+ 2617.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [74 <./cours-oscillateur-part1.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=325, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf>
+Package pdftex.def Info: cours-oscillateur-part2.pdf  used on input line 2619.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf>
+Package pdftex.def Info: cours-oscillateur-part2.pdf  used on input line 2619.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<cours-oscillateur-part2.pdf, id=328, page=1, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page1 used on input line
+ 2619.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page1 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page1 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page1 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 1>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page1 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+
+[75 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=335, page=2, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 2>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page2 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 2>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page2 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 2>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page2 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [76 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=340, page=3, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 3>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page3 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 3>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page3 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 3>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page3 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [77 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=345, page=4, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 4>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page4 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 4>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page4 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 4>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page4 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [78 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=350, page=5, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 5>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page5 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 5>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page5 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 5>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page5 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [79 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=355, page=6, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 6>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page6 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 6>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page6 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 6>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page6 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [80 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=360, page=7, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 7>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page7 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 7>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page7 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 7>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page7 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+[81 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+<cours-oscillateur-part2.pdf, id=366, page=8, 597.6729pt x 845.19763pt>
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 8>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page8 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 8>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page8 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: cours-oscillateur-part2.pdf Graphic file (type pdf)
+<use cours-oscillateur-part2.pdf, page 8>
+Package pdftex.def Info: cours-oscillateur-part2.pdf , page8 used on input line
+ 2619.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [82 <./cours-oscillateur-part2.pdf, page is rotated 270 degrees>]
+Chapitre 8.
+[83
+
+]
+<Etat-non-lie.pdf, id=374, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf>
+Package pdftex.def Info: Etat-non-lie.pdf  used on input line 2624.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf>
+Package pdftex.def Info: Etat-non-lie.pdf  used on input line 2624.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<Etat-non-lie.pdf, id=377, page=1, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 1>
+Package pdftex.def Info: Etat-non-lie.pdf , page1 used on input line 2624.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 1>
+Package pdftex.def Info: Etat-non-lie.pdf , page1 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 1>
+Package pdftex.def Info: Etat-non-lie.pdf , page1 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 1>
+Package pdftex.def Info: Etat-non-lie.pdf , page1 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 1>
+Package pdftex.def Info: Etat-non-lie.pdf , page1 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [84 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+<Etat-non-lie.pdf, id=383, page=2, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 2>
+Package pdftex.def Info: Etat-non-lie.pdf , page2 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 2>
+Package pdftex.def Info: Etat-non-lie.pdf , page2 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 2>
+Package pdftex.def Info: Etat-non-lie.pdf , page2 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [85 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+<Etat-non-lie.pdf, id=388, page=3, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 3>
+Package pdftex.def Info: Etat-non-lie.pdf , page3 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 3>
+Package pdftex.def Info: Etat-non-lie.pdf , page3 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 3>
+Package pdftex.def Info: Etat-non-lie.pdf , page3 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [86 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+<Etat-non-lie.pdf, id=393, page=4, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 4>
+Package pdftex.def Info: Etat-non-lie.pdf , page4 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 4>
+Package pdftex.def Info: Etat-non-lie.pdf , page4 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 4>
+Package pdftex.def Info: Etat-non-lie.pdf , page4 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [87 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+<Etat-non-lie.pdf, id=399, page=5, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 5>
+Package pdftex.def Info: Etat-non-lie.pdf , page5 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 5>
+Package pdftex.def Info: Etat-non-lie.pdf , page5 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 5>
+Package pdftex.def Info: Etat-non-lie.pdf , page5 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [88 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+<Etat-non-lie.pdf, id=404, page=6, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 6>
+Package pdftex.def Info: Etat-non-lie.pdf , page6 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 6>
+Package pdftex.def Info: Etat-non-lie.pdf , page6 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 6>
+Package pdftex.def Info: Etat-non-lie.pdf , page6 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [89 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+<Etat-non-lie.pdf, id=409, page=7, 597.6729pt x 845.19763pt>
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 7>
+Package pdftex.def Info: Etat-non-lie.pdf , page7 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 7>
+Package pdftex.def Info: Etat-non-lie.pdf , page7 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: Etat-non-lie.pdf Graphic file (type pdf)
+<use Etat-non-lie.pdf, page 7>
+Package pdftex.def Info: Etat-non-lie.pdf , page7 used on input line 2624.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [90 <./Etat-non-lie.pdf, page is rotated 270 degrees>]
+Chapitre 9.
+[91
+
+]
+<momentcinetique-1.pdf, id=417, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf>
+Package pdftex.def Info: momentcinetique-1.pdf  used on input line 2629.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf>
+Package pdftex.def Info: momentcinetique-1.pdf  used on input line 2629.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<momentcinetique-1.pdf, id=420, page=1, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 1>
+Package pdftex.def Info: momentcinetique-1.pdf , page1 used on input line 2629.
+
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 1>
+Package pdftex.def Info: momentcinetique-1.pdf , page1 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 1>
+Package pdftex.def Info: momentcinetique-1.pdf , page1 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 1>
+Package pdftex.def Info: momentcinetique-1.pdf , page1 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 1>
+Package pdftex.def Info: momentcinetique-1.pdf , page1 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [92 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=426, page=2, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 2>
+Package pdftex.def Info: momentcinetique-1.pdf , page2 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 2>
+Package pdftex.def Info: momentcinetique-1.pdf , page2 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 2>
+Package pdftex.def Info: momentcinetique-1.pdf , page2 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [93 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=432, page=3, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 3>
+Package pdftex.def Info: momentcinetique-1.pdf , page3 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 3>
+Package pdftex.def Info: momentcinetique-1.pdf , page3 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 3>
+Package pdftex.def Info: momentcinetique-1.pdf , page3 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [94 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=438, page=4, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 4>
+Package pdftex.def Info: momentcinetique-1.pdf , page4 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 4>
+Package pdftex.def Info: momentcinetique-1.pdf , page4 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 4>
+Package pdftex.def Info: momentcinetique-1.pdf , page4 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [95 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=443, page=5, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 5>
+Package pdftex.def Info: momentcinetique-1.pdf , page5 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 5>
+Package pdftex.def Info: momentcinetique-1.pdf , page5 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 5>
+Package pdftex.def Info: momentcinetique-1.pdf , page5 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [96 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=448, page=6, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 6>
+Package pdftex.def Info: momentcinetique-1.pdf , page6 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 6>
+Package pdftex.def Info: momentcinetique-1.pdf , page6 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 6>
+Package pdftex.def Info: momentcinetique-1.pdf , page6 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [97 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=453, page=7, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 7>
+Package pdftex.def Info: momentcinetique-1.pdf , page7 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 7>
+Package pdftex.def Info: momentcinetique-1.pdf , page7 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 7>
+Package pdftex.def Info: momentcinetique-1.pdf , page7 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [98 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-1.pdf, id=458, page=8, 597.6729pt x 845.19763pt>
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 8>
+Package pdftex.def Info: momentcinetique-1.pdf , page8 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 8>
+Package pdftex.def Info: momentcinetique-1.pdf , page8 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-1.pdf Graphic file (type pdf)
+<use momentcinetique-1.pdf, page 8>
+Package pdftex.def Info: momentcinetique-1.pdf , page8 used on input line 2629.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [99 <./momentcinetique-1.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=464, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf>
+Package pdftex.def Info: momentcinetique-2.pdf  used on input line 2631.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf>
+Package pdftex.def Info: momentcinetique-2.pdf  used on input line 2631.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<momentcinetique-2.pdf, id=467, page=1, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 1>
+Package pdftex.def Info: momentcinetique-2.pdf , page1 used on input line 2631.
+
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 1>
+Package pdftex.def Info: momentcinetique-2.pdf , page1 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 1>
+Package pdftex.def Info: momentcinetique-2.pdf , page1 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 1>
+Package pdftex.def Info: momentcinetique-2.pdf , page1 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 1>
+Package pdftex.def Info: momentcinetique-2.pdf , page1 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [100 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=473, page=2, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 2>
+Package pdftex.def Info: momentcinetique-2.pdf , page2 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 2>
+Package pdftex.def Info: momentcinetique-2.pdf , page2 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 2>
+Package pdftex.def Info: momentcinetique-2.pdf , page2 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+
+[101 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=478, page=3, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 3>
+Package pdftex.def Info: momentcinetique-2.pdf , page3 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 3>
+Package pdftex.def Info: momentcinetique-2.pdf , page3 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 3>
+Package pdftex.def Info: momentcinetique-2.pdf , page3 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [102 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=483, page=4, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 4>
+Package pdftex.def Info: momentcinetique-2.pdf , page4 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 4>
+Package pdftex.def Info: momentcinetique-2.pdf , page4 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 4>
+Package pdftex.def Info: momentcinetique-2.pdf , page4 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [103 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=488, page=5, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 5>
+Package pdftex.def Info: momentcinetique-2.pdf , page5 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 5>
+Package pdftex.def Info: momentcinetique-2.pdf , page5 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 5>
+Package pdftex.def Info: momentcinetique-2.pdf , page5 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [104 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=493, page=6, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 6>
+Package pdftex.def Info: momentcinetique-2.pdf , page6 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 6>
+Package pdftex.def Info: momentcinetique-2.pdf , page6 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 6>
+Package pdftex.def Info: momentcinetique-2.pdf , page6 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [105 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-2.pdf, id=499, page=7, 597.6729pt x 845.19763pt>
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 7>
+Package pdftex.def Info: momentcinetique-2.pdf , page7 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 7>
+Package pdftex.def Info: momentcinetique-2.pdf , page7 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-2.pdf Graphic file (type pdf)
+<use momentcinetique-2.pdf, page 7>
+Package pdftex.def Info: momentcinetique-2.pdf , page7 used on input line 2631.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [106 <./momentcinetique-2.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=504, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf>
+Package pdftex.def Info: momentcinetique-3.pdf  used on input line 2633.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf>
+Package pdftex.def Info: momentcinetique-3.pdf  used on input line 2633.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<momentcinetique-3.pdf, id=507, page=1, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 1>
+Package pdftex.def Info: momentcinetique-3.pdf , page1 used on input line 2633.
+
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 1>
+Package pdftex.def Info: momentcinetique-3.pdf , page1 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 1>
+Package pdftex.def Info: momentcinetique-3.pdf , page1 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 1>
+Package pdftex.def Info: momentcinetique-3.pdf , page1 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 1>
+Package pdftex.def Info: momentcinetique-3.pdf , page1 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [107 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=513, page=2, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 2>
+Package pdftex.def Info: momentcinetique-3.pdf , page2 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 2>
+Package pdftex.def Info: momentcinetique-3.pdf , page2 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 2>
+Package pdftex.def Info: momentcinetique-3.pdf , page2 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [108 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=518, page=3, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 3>
+Package pdftex.def Info: momentcinetique-3.pdf , page3 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 3>
+Package pdftex.def Info: momentcinetique-3.pdf , page3 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 3>
+Package pdftex.def Info: momentcinetique-3.pdf , page3 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [109 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=523, page=4, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 4>
+Package pdftex.def Info: momentcinetique-3.pdf , page4 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 4>
+Package pdftex.def Info: momentcinetique-3.pdf , page4 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 4>
+Package pdftex.def Info: momentcinetique-3.pdf , page4 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+
+[110 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=528, page=5, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 5>
+Package pdftex.def Info: momentcinetique-3.pdf , page5 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 5>
+Package pdftex.def Info: momentcinetique-3.pdf , page5 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 5>
+Package pdftex.def Info: momentcinetique-3.pdf , page5 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [111 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=534, page=6, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 6>
+Package pdftex.def Info: momentcinetique-3.pdf , page6 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 6>
+Package pdftex.def Info: momentcinetique-3.pdf , page6 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 6>
+Package pdftex.def Info: momentcinetique-3.pdf , page6 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [112 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=539, page=7, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 7>
+Package pdftex.def Info: momentcinetique-3.pdf , page7 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 7>
+Package pdftex.def Info: momentcinetique-3.pdf , page7 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 7>
+Package pdftex.def Info: momentcinetique-3.pdf , page7 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [113 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=544, page=8, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 8>
+Package pdftex.def Info: momentcinetique-3.pdf , page8 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 8>
+Package pdftex.def Info: momentcinetique-3.pdf , page8 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 8>
+Package pdftex.def Info: momentcinetique-3.pdf , page8 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [114 <./momentcinetique-3.pdf, page is rotated 270 degrees>]
+<momentcinetique-3.pdf, id=549, page=9, 597.6729pt x 845.19763pt>
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 9>
+Package pdftex.def Info: momentcinetique-3.pdf , page9 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 9>
+Package pdftex.def Info: momentcinetique-3.pdf , page9 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: momentcinetique-3.pdf Graphic file (type pdf)
+<use momentcinetique-3.pdf, page 9>
+Package pdftex.def Info: momentcinetique-3.pdf , page9 used on input line 2633.
+
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [115 <./momentcinetique-3.pdf, page is rotated 270 degrees>] [116
+
+]
+Chapitre 10.
+[117]
+<theorie des Perturbations.pdf, id=561, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf>
+Package pdftex.def Info: theorie des Perturbations.pdf  used on input line 2640
+.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf>
+Package pdftex.def Info: theorie des Perturbations.pdf  used on input line 2640
+.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+<theorie des Perturbations.pdf, id=564, page=1, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 1>
+Package pdftex.def Info: theorie des Perturbations.pdf , page1 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 597.67143pt x 845.19557pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 1>
+Package pdftex.def Info: theorie des Perturbations.pdf , page1 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 1>
+Package pdftex.def Info: theorie des Perturbations.pdf , page1 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 1>
+Package pdftex.def Info: theorie des Perturbations.pdf , page1 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 1>
+Package pdftex.def Info: theorie des Perturbations.pdf , page1 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [118 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=570, page=2, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 2>
+Package pdftex.def Info: theorie des Perturbations.pdf , page2 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 2>
+Package pdftex.def Info: theorie des Perturbations.pdf , page2 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 2>
+Package pdftex.def Info: theorie des Perturbations.pdf , page2 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+
+[119 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=575, page=3, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 3>
+Package pdftex.def Info: theorie des Perturbations.pdf , page3 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 3>
+Package pdftex.def Info: theorie des Perturbations.pdf , page3 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 3>
+Package pdftex.def Info: theorie des Perturbations.pdf , page3 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [120 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=580, page=4, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 4>
+Package pdftex.def Info: theorie des Perturbations.pdf , page4 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 4>
+Package pdftex.def Info: theorie des Perturbations.pdf , page4 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 4>
+Package pdftex.def Info: theorie des Perturbations.pdf , page4 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [121 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=585, page=5, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 5>
+Package pdftex.def Info: theorie des Perturbations.pdf , page5 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 5>
+Package pdftex.def Info: theorie des Perturbations.pdf , page5 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 5>
+Package pdftex.def Info: theorie des Perturbations.pdf , page5 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [122 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=590, page=6, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 6>
+Package pdftex.def Info: theorie des Perturbations.pdf , page6 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 6>
+Package pdftex.def Info: theorie des Perturbations.pdf , page6 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 6>
+Package pdftex.def Info: theorie des Perturbations.pdf , page6 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [123 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=596, page=7, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 7>
+Package pdftex.def Info: theorie des Perturbations.pdf , page7 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 7>
+Package pdftex.def Info: theorie des Perturbations.pdf , page7 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 7>
+Package pdftex.def Info: theorie des Perturbations.pdf , page7 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [124 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=601, page=8, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 8>
+Package pdftex.def Info: theorie des Perturbations.pdf , page8 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 8>
+Package pdftex.def Info: theorie des Perturbations.pdf , page8 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 8>
+Package pdftex.def Info: theorie des Perturbations.pdf , page8 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [125 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=606, page=9, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 9>
+Package pdftex.def Info: theorie des Perturbations.pdf , page9 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 9>
+Package pdftex.def Info: theorie des Perturbations.pdf , page9 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 9>
+Package pdftex.def Info: theorie des Perturbations.pdf , page9 used on input li
+ne 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [126 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=611, page=10, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 10>
+Package pdftex.def Info: theorie des Perturbations.pdf , page10 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 10>
+Package pdftex.def Info: theorie des Perturbations.pdf , page10 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 10>
+Package pdftex.def Info: theorie des Perturbations.pdf , page10 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+
+[127 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=616, page=11, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 11>
+Package pdftex.def Info: theorie des Perturbations.pdf , page11 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 11>
+Package pdftex.def Info: theorie des Perturbations.pdf , page11 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 11>
+Package pdftex.def Info: theorie des Perturbations.pdf , page11 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [128 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=621, page=12, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 12>
+Package pdftex.def Info: theorie des Perturbations.pdf , page12 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 12>
+Package pdftex.def Info: theorie des Perturbations.pdf , page12 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 12>
+Package pdftex.def Info: theorie des Perturbations.pdf , page12 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [129 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=627, page=13, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 13>
+Package pdftex.def Info: theorie des Perturbations.pdf , page13 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 13>
+Package pdftex.def Info: theorie des Perturbations.pdf , page13 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 13>
+Package pdftex.def Info: theorie des Perturbations.pdf , page13 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [130 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=632, page=14, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 14>
+Package pdftex.def Info: theorie des Perturbations.pdf , page14 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 14>
+Package pdftex.def Info: theorie des Perturbations.pdf , page14 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 14>
+Package pdftex.def Info: theorie des Perturbations.pdf , page14 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [131 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=637, page=15, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 15>
+Package pdftex.def Info: theorie des Perturbations.pdf , page15 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 15>
+Package pdftex.def Info: theorie des Perturbations.pdf , page15 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 15>
+Package pdftex.def Info: theorie des Perturbations.pdf , page15 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [132 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=642, page=16, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 16>
+Package pdftex.def Info: theorie des Perturbations.pdf , page16 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 16>
+Package pdftex.def Info: theorie des Perturbations.pdf , page16 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 16>
+Package pdftex.def Info: theorie des Perturbations.pdf , page16 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [133 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=647, page=17, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 17>
+Package pdftex.def Info: theorie des Perturbations.pdf , page17 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 17>
+Package pdftex.def Info: theorie des Perturbations.pdf , page17 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 17>
+Package pdftex.def Info: theorie des Perturbations.pdf , page17 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [134 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=652, page=18, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 18>
+Package pdftex.def Info: theorie des Perturbations.pdf , page18 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 18>
+Package pdftex.def Info: theorie des Perturbations.pdf , page18 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 18>
+Package pdftex.def Info: theorie des Perturbations.pdf , page18 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+
+[135 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+<theorie des Perturbations.pdf, id=658, page=19, 597.6729pt x 845.19763pt>
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 19>
+Package pdftex.def Info: theorie des Perturbations.pdf , page19 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 19>
+Package pdftex.def Info: theorie des Perturbations.pdf , page19 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+File: theorie des Perturbations.pdf Graphic file (type pdf)
+<use theorie des Perturbations.pdf, page 19>
+Package pdftex.def Info: theorie des Perturbations.pdf , page19 used on input l
+ine 2640.
+(pdftex.def)             Requested size: 567.78603pt x 802.93321pt.
+ [136 <./theorie des Perturbations.pdf, page is rotated 270 degrees>]
+Chapitre 11.
+[137
+
+] (./MecaniqueQuantiqueCoursL3.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8389 strings out of 483113
+ 128074 string characters out of 5964008
+ 406095 words of memory out of 5000000
+ 23249 multiletter control sequences out of 15000+600000
+ 566237 words of font info for 120 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 48i,22n,49p,1407b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1
+200.600pk> </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecti1000.600pk> </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecrm1000.600pk> </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1440.600pk> </home/bapt_physsky/.texlive2019/texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/bapt_physsky/.texlive2019/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/bapt_physsky/.texlive
+2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsl1200.600pk> </home/bapt_physsky/
+.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/bapt_
+physsky/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </ho
+me/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600
+pk> </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
+1200.600pk> </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecrm1440.600pk> </home/bapt_physsky/.texlive2019/texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecrm2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on MecaniqueQuantiqueCoursL3.pdf (141 pages, 6060968 bytes).
+PDF statistics:
+ 1332 PDF objects out of 1440 (max. 8388607)
+ 429 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 501 words of extra memory for PDF output out of 10000 (max. 10000000)
+
