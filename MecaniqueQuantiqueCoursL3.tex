@@ -112,15 +112,15 @@ Pour conclure cette introduction, je tient à préciser que le cours contient de
 
 \newpage
 \chapter{OUTILS MATHÉMATIQUES}
-\section{Espace des fonctions d'ondes}
-Introduction de la fonction d'onde, abrégée en \enquote{f.o.}. $\Psi (\overrightarrow{r}, t)$ est une fonction d'onde, c'est à dire qu'elle décrit l'état d'un système. Son module $|\Psi (\overrightarrow{r}, t) |$ nous donne la densité de présence à l'instant t et au point $\overrightarrow{r}$. De plus $|\Psi (\overrightarrow{r}, t)|^2$ nous donne la probabilité de présence à l'instant t en $\overrightarrow{r}$ dans l'élément de volume $d^3 r ~=~ dx~dy~dz$.\\
+\section{Espace de Hilbert}
+Introduction de la fonction d'onde, abrégée en \enquote{f.o.}. $\Psi (\overrightarrow{r}, t)$ est une fonction d'onde, c'est à dire qu'elle décrit l'état d'un système ou d'une particule. Elle n'a aucun sens physique. Son module $|\Psi (\overrightarrow{r}, t) |$ nous donne la densité de présence à l'instant t et au point $\overrightarrow{r}$. De plus $|\Psi (\overrightarrow{r}, t)|^2$ nous donne la probabilité de présence à l'instant t en $\overrightarrow{r}$ dans l'élément de volume $dv ~=~ dx~dy~dz$.\\
 
 D'où la relation suivante :\\
 \begin{equation*}
-\int_{-\infty}^{+\infty} \vert \Psi (\overrightarrow{r}, t) \vert ^2 d^3 r ~=~ 1
+\int_{-\infty}^{+\infty} \vert \Psi (\overrightarrow{r}, t) \vert ^2 dv ~=~ 1
 \end{equation*}
 
-On dit que $\Psi (\overrightarrow{r}, t)$ est une fonction d'onde de carré sommable. Donc $\Psi (\overrightarrow{r}, t) ~\in~ \mathfrak{L}^2$ : elle appartient à un espace de Hilbert. Le sous-espace $\mathfrak{F}$ contient les fonctions d'ondes continues, définies partout et indéfiniment dérivables. Les fonctions d'ondes appartenant au sous-espace $\mathfrak{F}$ ont un sens physique.
+$\Psi (\overrightarrow{r}, t)$ est normalisée. On dit que $\Psi (\overrightarrow{r}, t)$ est une fonction d'onde de carré sommable, se seront les seules que nous utiliserons dans ce cours, les autres ayant pas de sens physique. Donc $\Psi (\overrightarrow{r}, t) ~\in~ \mathfrak{L}^2$ : elle appartient à un espace de Hilbert. Nous nous limiterons dans ce cours au sous-espace $\mathfrak{F} \subset \mathfrak{L}^2$. Le sous-espace $\mathfrak{F}$ contient les fonctions d'ondes continues, définies partout et indéfiniment dérivables. Les fonctions d'ondes appartenant au sous-espace $\mathfrak{F}$ ont un sens physique.
 
 \subsection{Structure de l'espace $\mathfrak{F}$ des fonctions d'ondes}
 \subsubsection{A : $\mathfrak{F}$ est un espace vectoriel}
@@ -321,6 +321,12 @@ P_{\Psi} \ket{\varphi} ~=~ \sum\limits_i \ket{\Psi_i} \braket{\Psi_i | \varphi} 
 Avec $\alpha_i ~\in~ \mathbb{C}$.
 
 \subsection{Conjugaison hermitienne}
+
+L'action d'un opérateur linéaire sur un bra $\bra{\varphi}$ est un bra, $\ket{\Psi}$ est un ket et $A$ un opérateur linéaire. On peut associer à $\ket{\Psi}$ le nombre $\braket{\varphi | H | \Psi}$. On peut dire que la donnée de $A$ et $\bra{\varphi}$ définie une fonctionnelle linéaire sur les kets appartenant à $\mathcal{E}$, c'est à dire un bra appartenant à $\mathcal{E}^*$. De plus :
+\begin{equation*}
+\bra{\varphi} \left( A \ket{\Psi}\right) = \left(\bra{\varphi} A \right) \ket{\Psi}
+\end{equation*}
+
 \subsubsection{A : Opérateur adjoint $A^{\dagger}$ d'un opérateur linéaire}
 Nous avons associé un bra $\bra{\Psi}$ à tout ket $\ket{\Psi}$, nous associons un opérateur adjoint $A^{\dagger}$ à tout opérateur A.\\
 
@@ -342,33 +348,23 @@ $A^{\dagger}$ est le conjugué hermitique de A. Soit $\ket{\Psi}$ et $\ket{\Psi'
 \begin{equation*}
 (\lambda_1 \bra{\Psi_1} + \lambda_2 \bra{\Psi_2}) A^\dagger ~=~ \lambda_1 \bra{\Psi_1} A^\dagger + \lambda_2 \bra{\Psi_2} A^\dagger ~=~ \lambda_1 \bra{\Psi_1} + \lambda_2 \bra{\Psi_2}
 \end{equation*}
-Pour rappel : nous savons que $\braket{\Psi | \varphi} ~=~ \braket{\varphi | \Psi}^{\mathsf{X}}$.\\
+Pour rappel : nous savons que $\braket{\Psi | \varphi} ~=~ \braket{\varphi | \Psi}^*$.\\
 
 Si nous remplaçons $\ket{\Psi}$ par $\ket{\Psi'}$, nous avons :\\
-\begin{equation*}
-\braket{\Psi' | \varphi} ~=~ \braket{\varphi | \Psi'}^{\mathsf{x}}
-\end{equation*}
-\begin{equation*}
-\braket{\Psi' |A^{\dagger}| \varphi} ~=~ \braket{\varphi |A| \Psi'}^{\mathsf{x}}
-\end{equation*}
-\begin{equation*}
-\braket{\varphi |A| \Psi} ~=~ \braket{\Psi |A^{\dagger}| \varphi}^{\mathsf{x}}
-\end{equation*}
+\begin{align*}
+\braket{\Psi' | \varphi} &= \braket{\varphi | \Psi'}^*\\
+\braket{\Psi' |A^{\dagger}| \varphi} &= \braket{\varphi |A| \Psi'}^*\\
+\braket{\varphi |A| \Psi} &= \braket{\Psi |A^{\dagger}| \varphi}^*
+\end{align*}
 
 \subsubsection{B : Propriétés et correspondance entre opérateur et son adjoint}
 
-\begin{equation*}
-(A^{\mathsf{x}})^\dagger ~=~ A
-\end{equation*}
-\begin{equation*}
-(A+B)^\dagger ~=~ A^\dagger + B^\dagger
-\end{equation*}
-\begin{equation*}
-(\lambda A)^\mathsf{x} ~=~ \lambda^\mathsf{x} A^\dagger
-\end{equation*}
-\begin{equation*}
-(AB)^\dagger ~=~ B^\dagger A^\dagger
-\end{equation*}
+\begin{align*}
+(A^*)^\dagger &= A\\
+(A+B)^\dagger &= A^\dagger + B^\dagger\\
+(\lambda A)^* &= \lambda^* A^\dagger\\
+(AB)^\dagger &= B^\dagger A^\dagger
+\end{align*}
 
 \subsubsection{C : Conjugaison hermitique}
 Il s'agit que si A un opérateur hermitique, avec $A ~=~ \ket v \bra u$, alors son adjoint sera $A^\dagger ~=~ \ket u \bra v$. Cette relation est démontré en travaux dirigés.
@@ -592,11 +588,37 @@ A_{kl} = \braket{t_k | A | t_l} &= \braket{t_k | \sum\limits_i | U_i} \braket{U_
 \section{Équation aux valeurs propres}
 \subsection{Vecteurs propres et valeurs propres d'un opérateur}
 \paragraph*{Définition :}
-On dit que $\ket{\Psi}$ est un ket propre de l'opérateur linéaire $A$ s'il vérifie que l'équation : $A \ket{\Psi} = \lambda \ket{\Psi}$ avec $\lambda \in \mathbb{C}$. C'est l'équation aux valeurs propres d'un opérateur linéaire. L'ensemble des valeurs propres de $A$ s'appelle le spectre de $A$.
+Soit $\ket{\Psi} \in \mathcal{E}$ et ket propre de l'opérateur linéaire $A$ s'il vérifie que l'équation : $A \ket{\Psi} = \lambda \ket{\Psi}$ avec $\lambda \in \mathbb{C}$. C'est l'équation aux valeurs propres d'un opérateur linéaire. L'ensemble des valeurs propres de $A$ s'appelle le spectre de $A$.
 \paragraph*{Remarque :}
 Si $\ket{\Psi}$ est vecteur propre de $A$, alors $\alpha \ket{\Psi}$ avec ($\alpha \in \mathbb{C}$) l'est aussi et avec la même valeur propre.\\
 
-Pour enlever l'indétermination, on normalise $\ket{\Psi}$. Cependant, tout ket est déterminer à une phase près. Une valeur propre est dite simple ou non dégénérée quand il lui correspond un seul vecteur propre. Une valeur propre est dite dégénérée s'il lui correspond deux ou plusieurs vecteurs propres indépendants. Si $\lambda$ est dégénérée $g$ fois, alors il lui correspond $g$ vecteurs propres indépendants. Ainsi, l'ensemble des kets de valeurs propres de $A$ associé à $\lambda$ constitue un espace vectoriel de dimension $g$ appelé sous espace propre de la valeur propre $\lambda$.
+Il convient de normaliser le ket et tout ket est à déterminer à une phase près. On dit que $\lambda$ est non dégénérée si elle est associée à un seul ket. $\lambda$ est dégénérée si elle est associée à au moins deux kets et qu'ils sont linéairement indépendant.\\
+
+$\ket{\Psi_1} \rightarrow \lambda$ ; $A \ket{\Psi_1} = \lambda \ket{\Psi_1}$
+$\ket{\Psi_2} \rightarrow \lambda$ ; $A \ket{\Psi_2} = \lambda \ket{\Psi_2}$\\
+
+$\lambda$ est dégénérée si $\braket{\Psi_1 | \Psi_2} = 0$.\\
+
+Le degré de dégénérescence d'une valeur propre est donnée par le nombre de vecteurs propres qui lui sont associés (vecteurs propres indépendants). Dans cette situation, on écrit : $A \ket{\Psi^i} = \lambda \ket{\Psi^i}$ avec $i = 1, 2, \ldots, g$. Ici $g$ est le degré de dégénérescences de $\lambda$. Tout ket $\ket{\Psi} = \sum\limits_i C_i \ket{\Psi^i}$ sont des vecteurs propres de $A$ associés à $\lambda$.\\
+
+Par exemple : soit $\lambda$ associé à $\ket{\Psi_1}$ et $\ket{\Psi_2}$ (à noter que :$\braket{\Psi_1 | \Psi_2} = 0$, si $\bra{\Psi_1} \perp \ket{\Psi_2}$). Tout $\ket{\Psi} = \alpha \ket{\Psi_1} + \beta \ket{\Psi_2}$ est un ket associé à $\lambda$. Si $\ket{\Psi^i}$ (avec $i = 1, 2, \ldots, g$) sont des kets propres de $A$ associés à $\lambda$.
+
+\begin{center}
+$A \ket{\Psi^i} = \lambda \ket{\Psi^i} ~~ \forall i = 1, 2, \ldots, g$. 
+\end{center}
+
+Alors $\ket{\Psi} = \sum\limits_i C_i \ket{\Psi^i}$ est vecteurs propres de $A$ associés à $\lambda$.
+
+\paragraph*{Démonstration :}
+\begin{align*}
+A \ket{\Psi} &= A \left( \sum C_i \ket{\Psi^i} \right)\\
+&= \sum C_i A \ket{\Psi^i}\\
+&= \sum C_i \lambda \ket{\Psi^i}\\
+&= \lambda \left( \sum C_i \ket{\Psi^i} \right)\\
+&= \lambda \ket{\Psi}
+\end{align*}
+
+L'ensemble de kets propres à $A$ associés à une même valeur propre constitue un espace vectorielle de dimension égale à la dégénérescence de cette valeur propre. On l'appelle sous-espace propre de la valeur propre $\lambda$.
 
 \paragraph*{Remarque :}
 En prenant le couple conjuguée de l'équation : $A \ket{\Psi} = \lambda \ket{\Psi}$ on obtient $\bra{\Psi} A^{\dagger} = \lambda^* \bra{\Psi}$. $\ket{\Psi}$ vecteur propre de $A$ de $\lambda$ ; et $\ket{\Psi}$ vecteur de $A^{\dagger}$ de $\lambda^*$. Si $A$ est hermitique : $A = A^{\dagger}$, alors $\lambda = \lambda^*$. À noter que $\lambda$ est réel.
@@ -610,12 +632,12 @@ On projette l'équation aux valeurs propres sur les vecteurs de la représentati
 \sum\limits_j \braket{U_i | A | U_j} C_j &= \lambda C_i\\
 \sum\limits_j (A_{ij} - \lambda C_{ij}) C_j &= 0
 \end{align*}
-C'est un système d'équation homogène.
+On obtient un système d'équation homogène de $N$ lignes et $N$ colonnes inconnues qui sont les $C_j$. Les $C_j$ sont les composantes du/des vecteurs propres de $A$ dans la base $\left\lbrace \ket{U_i} \right\rbrace$.
 
 \subsubsection{B : L'équation caractéristique}
-Le système d'équation énoncé précédemment est homogène et linéaire, il admet une solution si et seulement si le déterminant des coefficients est nul : $\Delta (\mathcal{A} - \lambda I) = 0$.\\
+Le système d'équation énoncé précédemment est homogène et linéaire, il admet une ou plusieurs solution(s) si et seulement si le déterminant des coefficients est nul : $\Delta (\mathcal{A} - \lambda I) = 0$.\\
 
-$\mathcal{A}$ est la matrice $N \times N$, avec ($N = dim A$) et dont les éléments sont $A_{ij}$ et $I$ matrice identité. Cette équation est dite caractéristique ou séculaire. Sa résolution donne le spectre de l'opérateur $A$. On peut expliciter par la formule :
+$\mathcal{A}$ est une matrice $N \times N$. $N$ est la dimension de la base $\left\lbrace \ket{U_i} \right\rbrace$. Cette équation est dite équation séculaire (ou caractéristique). Sa résolution donne les valeurs propres $\lambda$. On peut écrire en dimension 3 :\\
 \begin{center}
 \[
 \left\lbrace
@@ -667,11 +689,11 @@ $\lambda_0$ est une valeur propre. q ($q > 1$). Dans ce cas, l'équation aux val
 La résolution de ce système nous donne $q$ vecteur propre indépendante. Nous avons traité le cas d'un opérateur hermitique car la dégénérescence d'une valeur propre hermitique est toujours égale à la dimension de son espace propre.
 
 \subsection{Les Observables}
-\subsubsection{A : Propriétés des valeurs propres d'un opérateur hermitique}
+\subsubsection{A : Propriétés des valeurs et vecteurs propres d'un opérateur hermitique}
 
 Les valeurs propres d'un opérateur hermitique sont réelles, donc : soit A est hermitique, soit $\ket{\varphi}$ est son vecteur propre. $A \ket{\Psi} ~=~ \lambda \ket{\Psi}$ ; où $\lambda$ est la / les valeur(s) propre(s) de A. $\braket{\Psi | A | \Psi} = \lambda \braket{\Psi | \Psi}$. Maintenant, nous prenons le complexe conjugué :\\
 \begin{equation*}
-\braket{\Psi | A | \Psi}^{\mathsf{x}} = \lambda^{\mathsf{x}} \braket{\Psi | \Psi} ~=~ \braket{\Psi | A^{\dagger} | \Psi} ~=~ \braket{\Psi | A | \Psi} ~=~ \lambda
+\braket{\Psi | A | \Psi}^{*} = \lambda^{*} \braket{\Psi | \Psi} ~=~ \braket{\Psi | A^{\dagger} | \Psi} ~=~ \braket{\Psi | A | \Psi} ~=~ \lambda
 \end{equation*}
 Et donc, A est hermitique, $\ket{\Psi}$ et $\ket{\varphi}$ sont ses vecteurs propres associés à $\lambda$ et $\mu$ respectivement $(\lambda ~\neq~ \mu)$.
 
@@ -694,7 +716,9 @@ Nous avons vu que les vecteurs propres d'un opérateur est hermitique, forment u
 
 Soit $g_n$ le degré de dégénérescence de $a_n$. Si $g_n = 1, a_n$ est une valeur propre simple, $g_n = 2, a_n$ est une valeur propre double. Nous notons que $\ket{\Psi_n^i} (i = 1, \ldots, g_n)$ les vecteurs linéairement indépendants choisis dans le sous-espace $\mathcal{E}_n ~\subset~ \mathcal{E}$.\\
 
-Avec : $A \ket{\Psi_n^i} = a_n \ket{\Psi_n^i}$.\\
+Avec : $A \ket{\Psi_n^i} = a_n \ket{\Psi_n^i}~\forall i$ et $\ket{\Psi_n^i}$ sont orthogonaux.\\
+
+$\braket{\Psi_n^i | \Psi_n^j} = \delta_{i j}$ ($i$ et $j$ varient de 1 à $g_n$).\\
 
 Nous avons démontré que les vecteurs propres associés à des valeurs propres différentes sont orthogonaux. Soit $\ket{\Psi_n^i} \longrightarrow a_n$ et $\braket{\Psi_n^i | \Psi_n^i} = 0 (a_n \neq a_n^i)$.\\
 

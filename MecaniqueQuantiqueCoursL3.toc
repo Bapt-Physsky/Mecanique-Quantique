@@ -1,6 +1,6 @@
 \babel@toc {french}{}
 \contentsline {chapter}{\numberline {1}OUTILS MATHÉMATIQUES}{11}%
-\contentsline {section}{\numberline {1.1}Espace des fonctions d'ondes}{11}%
+\contentsline {section}{\numberline {1.1}Espace de Hilbert}{11}%
 \contentsline {subsection}{\numberline {1.1.1}Structure de l'espace $\mathfrak {F}$ des fonctions d'ondes}{11}%
 \contentsline {subsubsection}{A : $\mathfrak {F}$ est un espace vectoriel}{11}%
 \contentsline {subsubsection}{B : Le produit scalaire}{12}%
@@ -44,10 +44,10 @@
 \contentsline {subsection}{\numberline {1.4.1}Vecteurs propres et valeurs propres d'un opérateur}{19}%
 \contentsline {subsubsection}{A : Recherche des valeurs propres d'un opérateur}{20}%
 \contentsline {subsubsection}{B : L'équation caractéristique}{20}%
-\contentsline {subsubsection}{B : Détermination des vecteurs propres}{20}%
+\contentsline {subsubsection}{B : Détermination des vecteurs propres}{21}%
 \contentsline {subsection}{\numberline {1.4.2}Les Observables}{21}%
-\contentsline {subsubsection}{A : Propriétés des valeurs propres d'un opérateur hermitique}{21}%
-\contentsline {subsubsection}{B : Définition d'une observable}{21}%
+\contentsline {subsubsection}{A : Propriétés des valeurs et vecteurs propres d'un opérateur hermitique}{21}%
+\contentsline {subsubsection}{B : Définition d'une observable}{22}%
 \contentsline {subsection}{\numberline {1.4.3}Ensemble d'observables qui commutent}{22}%
 \contentsline {subsubsection}{A : Trois théorèmes importants}{22}%
 \contentsline {subsubsection}{B : Ensemble complet d'observable qui commutent (Ecoc)}{24}%
