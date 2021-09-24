@@ -45,8 +45,6 @@ Ce document est une mise en forme de mes notes de cours, c'est à dire que toute
 
 Plusieurs parties du cours, notamment des démonstrations, eurent lieu en travaux dirigés. De même, comme dit plus tard, ce cours contient de nombreuses références au \enquote{Cohen}. Il s'agit du livre de Claude Cohen-Tannoudji \enquote{Mécanique Quantique}.\\
 
-Aussi, il y a un trou dans le premier chapitre du cours, à l'écriture de ce document.\\
-
 Ce document a été rédigé en {\LaTeX} sur TeXmaker, sous GNU/Linux Ubuntu 20.04 LTS.\\
 
 \newpage
@@ -57,6 +55,7 @@ Ce document a été rédigé en {\LaTeX} sur TeXmaker, sous GNU/Linux Ubuntu 20.
 $\blacksquare$ Abréviations :\\
 \hline
 \enquote{cst} : constante.\\
+\enquote{ECOC} : Espace Complet d'Observables qui Commutent.\\
 \hline
 \end{tabular}\\
 
@@ -94,9 +93,9 @@ $\propto$ : est proportionnel à.\\
 \newpage
 \chapter*{INTRODUCTION AU COURS}
 
-Comme dit dans la préface, ce document est une retranscription de mes notes du cours de Mécanique Quantique 2, dont les cours magistraux furent assurés par Arfa MONDHER. Ce cours fait suite au cours Mécanique Quantique de Gilles VIEN NGUYEN, qui eu lieu en licence 2 Physique. Ce cours, ou équivalent dans d'autres universités, est un prérequis à ce présent cours. Ces deux cours ont été dispensé à l'Université de Bretagne Occidentale à l'UFR de Sciences $\&$ Techniques à BREST.\\
+Comme dit dans la préface, ce document est une retranscription de mes notes du cours de Mécanique Quantique 2, dont les cours magistraux furent assurés par Mondher ARFA. Ce cours fait suite au cours Mécanique Quantique de Gilles VIEN NGUYEN, qui eu lieu en licence 2 Physique. Ce cours, ou équivalent dans d'autres universités, est un prérequis recommandé à ce présent cours. Ces deux cours ont été dispensé à l'Université de Bretagne Occidentale à l'UFR de Sciences $\&$ Techniques à BREST.\\
 
-Avant de parler du contenu du présent, faisons un résumé du cours précédent. Dans le dernier cours, nous avons vu les origines de la mécanique quantique, le comportement ondulatoire classique, allant de la définition de la longueur d'onde à la cohérence, aussi appelé \enquote{train d'ondes} en passant par la superposition, les interférences...\\
+Avant de parler du contenu du présent cours, faisons un résumé du cours précédent. Dans ce dernier, nous avons vu les origines de la mécanique quantique, le comportement ondulatoire classique, allant de la définition de la longueur d'onde à la cohérence, aussi appelé \enquote{train d'ondes} en passant par la superposition, les interférences...\\
 
 Ensuite, le cours précédent est revenu sur l'ensemble des rayonnements électromagnétique situés entre 400 nm et 700 nm, dit visibles, plus simplement : la lumière. Il fut rappelé l'histoire de l'étude de la lumière depuis le XVII$^e$ siècle avec les travaux de Kepler (propagation rectiligne de la lumière) de Descartes (loi de la réfraction) et de Newton. Rapidement, il fut démontré que la lumière possède un comportement de particule mais également un comportement ondulatoire (dualité onde - corpuscule ; mise en évidence par l'expérience des fentes de Young). L'un des points importants dans l'histoire de la mécanique quantique, le rayonnement du corps noir permit d'introduire, dans le cours, des constantes importantes tel que la constante de Planck ($h = 6.6 \times 10^{-34} Js$).\\
 
@@ -108,7 +107,9 @@ Le cours de \enquote{Mécanique Quantique 2} abordera, quand à lui, les aspects
 
 Puis viendra une pause pour introduire de nouveaux concepts mathématiques, tel que les ondes planes, les transformées de Fourier, la généralisation aux fonctions à trois dimensions et le produit tensoriel. Nous poursuivront en abordant le potentiel à une dimensions constant par morceau, où nous verrons la continuité de la fonction d'onde, le théorème de Wronshien, la dégénérescence ou non des états. De surcroît, nous parlerons de l'oscillateur harmonique, des états non liés et du moment cinétique et nous conclurons ce cours avec la théorie des perturbations, qui sera vu par le biais d'une résolution d'exercice.\\
 
-Pour conclure cette introduction, je tient à préciser que le cours contient des exercices d'applications qui n'ont pas été reporté dans cette retranscription de cours --- car oui, je ne vais quand même pas travailler à la place du prof non plus quoi, faut que vous bossez aussi. En effet, je tient à préciser que cette retranscription du cours n'est juste qu'un support dont la présence en cours magistraux et travaux dirigés est importante, car, par mon expérience, les cours magistraux sont denses en informations.\\
+\begin{center}
+\textit{Version d'édition : v1.101 ; 17.sept.2021}
+\end{center}
 
 \newpage
 \chapter{OUTILS MATHÉMATIQUES}
@@ -654,7 +655,7 @@ Cette équation est de degré $N$ en $\lambda$ (de degré 3 en $\lambda$ dans no
 \paragraph*{Remarque :}
 Arrivé à ce stade, nous connaissons le $S_p (A)$. Le prochain effort, c'est le calcul des vecteurs propres.
 
-\subsubsection{B : Détermination des vecteurs propres}
+\subsubsection{C : Détermination des vecteurs propres}
 
 Choisissons une valeur propre $\lambda_0$ solution de l'équation séculaire et posons l'équation :
 \begin{equation*}
@@ -761,7 +762,7 @@ D'où $B \ket \Psi$ est le vecteur propre de A sur $a_n$.
 
 \paragraph*{Corollaire :}
 
-Si $a_n$ est une valeur propre simple, tous les vecteurs propres associés à $a_n$ sont colinéaires. Ainsi $B \ket \Psi$ est colinéaire à $\ket \Psi$ sur $B \ket \Psi = b \ket \Psi$ d'où $\ket \Psi$ est aussi vecteur propre de B. Si $a_n$ est une valeur propre dégénérée, on peut dire $B \ket \Psi ~\in~ \mathcal{E}_n$ de A. $\mathcal{E}_n$ est le sous-espace de $a_n$ : pour tout $\ket \Psi \in \mathcal{E}_n$. On dit que $\mathcal{E}_n$ est invariant sous l'action de B.
+Si $a_n$ est une valeur propre non dégénérée simple, tous les vecteurs propres associés à $a_n$ sont colinéaires. Ainsi $B \ket \Psi$ est colinéaire à $\ket \Psi$ sur $B \ket \Psi = b \ket \Psi$ d'où $\ket \Psi$ est aussi vecteur propre de B. Si $a_n$ est une valeur propre dégénérée, on peut dire $B \ket \Psi ~\in~ \mathcal{E}_n$ de A. $\mathcal{E}_n$ est le sous-espace de $a_n$ : pour tout $\ket \Psi \in \mathcal{E}_n$. On dit que $\mathcal{E}_n$ est invariant sous l'action de B associé à la valeur propre $b$. $\ket{\Psi}$ est le vecteur propre commun à $A$ et $B$ associés aux valeurs propres $a_n$ et $b$ respectivement.
 
 \paragraph*{Deuxième théorème :}
 
@@ -796,9 +797,9 @@ a_1 \neq a_2
 
 \paragraph*{Troisième théorème :}
 
-Si deux observables commutent, on peut toujours construire une base perpendiculaire de l'espace des états, constituée de vecteurs propres communs de A et B. On sait que : si A est observable et $\lbrace \ket{U_n^i} \rbrace$ est une base de ses vecteurs propres avec $n = 1, 2, \ldots, N$ et $i = 1, 2, \ldots, g_n$ et B commute avec A, on sait que : - le sous-espace $\mathcal{E}_n$ est invariant par B ; - $\braket{V_n^i | B | U_n^i} = 0$ si $n \neq n'$. \\
+Si deux observables commutent, on peut toujours construire une base perpendiculaire de l'espace des états, constituée de vecteurs propres communs de A et B. On sait que : si A est observable et $\lbrace \ket{U_n^i} \rbrace$ est une base de ses vecteurs propres avec $n = 1, 2, \ldots, N$ et $i = 1, 2, \ldots, g_n$ ; $A \ket{U_n^i} = a_n \ket{U_n^i} \forall i$ et B commute avec A, on sait que : - le sous-espace $\mathcal{E}_n$ est invariant par B ; - $\braket{V_n^i | B | U_n^i} = 0$ si $n \neq n'$ et $\neq 0$ si $i = n' \forall (i, j)$. \\
 
-On ne sait pas si $n = n'$, alors la valeur de $\braket{V_n^i | B | U_n^i} = ?$.\\
+On ne sait pas si $n = n'$, alors la valeur de $\braket{\Psi_n^i | B | \Psi_n^j} = ?$.\\
 
 \underline{Comment construire la base de vecteur propre ?}\\
 
@@ -810,14 +811,15 @@ On écrit la matrice de B dans la base de vecteurs propres de A. On veille à ra
 \begin{tabular}{c|c|c|c}
  & $\mathcal{E} \ket{U_1^1} \ket{U_1^2}$ & $\mathcal{E} \ket{U_2^1} \ket{U_2^2}$ & $\mathcal{E} \ket{U_3^1} \ket{U_3^2}$\\
  \hline
-$\mathcal{E}_1$ & & 0 & 0\\
+$\mathcal{E}_1$ & $\braket{U_1^i | B | U_1^j}$ & 0 & 0\\
 \hline
-$\mathcal{E}_2$ & 0 & & 0\\
+$\mathcal{E}_2$ & 0 & $\braket{U_2^i | B | U_2^j}$ & 0\\
 \hline
-$\mathcal{E}_3$ & 0 & 0 & \\
+$\mathcal{E}_3$ & 0 & 0 & $\braket{U_3^i | B | U_3^j}$ \\
 \end{tabular}
 \end{center}
 \end{table}
+
 $\ket{U_1^1}$, $\ket{U_1^2}$ sont associées à $a_1$ dégénéré $g_1$ fois.\\
 $\ket{U_2^1}$, $\ket{U_3^2}$ sont associées à $a_2$ dégénéré $g_2$ fois.\\
 $\ket{U_3^1}$, $\ket{U_3^2}$ sont associées à $a_3$ dégénéré $g_3$ fois.\\
@@ -845,7 +847,7 @@ Par définition, un ensemble d'observable A, B, C est appelé ensemble complet d
 \subsection{Description de l'état d'un système}
 \paragraph*{Premier postulat :}
 
-À un instant $E_0$ fixe, l'état quantique d'un système physique est définie par la donnée d'un ket $\ket \Psi$ appartenant à l'espace des états.
+À un instant $E_0$ fixe, l'état quantique d'un système physique est définie par la donnée d'un ket $\ket{\Psi (t)}$ appartenant à l'espace des états.
 
 \paragraph*{Remarque :}
 
@@ -857,7 +859,7 @@ Deux kets proportionnelles représentants le même état physique : $\ket \varph
 \begin{equation*}
 \ket \Psi = \alpha\ket{\varphi_1} + \beta\ket{\varphi_2} \in \mathcal{E}
 \end{equation*}
-Considérons le ket $\ket \varphi = \alpha\ket{\varphi_1} + \beta\ket{\varphi_2}$, et si maintenant, on considère également le ket $\ket{\varphi'}$.
+Considérons le ket $\ket \varphi = \alpha\ket{\varphi_1} + \beta\ket{\varphi_2}$, avec $\alpha, \beta \in \mathbb{C}$, et si maintenant, on considère également le ket $\ket{\varphi'}$.
 \begin{equation*}
 \ket \varphi = \alpha ~exp(i \theta_1) \ket{\varphi_1} + \beta ~exp(i \theta_2)\ket{\varphi_2} ~\text{avec}~ \theta_1 \neq \theta_2 + 2k\pi
 \end{equation*}
@@ -925,7 +927,7 @@ Le projecteur sur le sous-espace $\mathcal{E}_n$ et $\ket{\Psi_n}$ comme état l
 \end{equation*}
 La probabilité $P(a_n)$ de trouver $a_n$ comme résultat de la mesure de A est donnée par :
 \begin{equation*}
-P(a_n) = \braket{\Psi_n | \Psi} = \braket{\Psi | P_n^\dagger | \Psi} = \braket{\Psi | P_n | \Psi} = \sum\limits_{i=1}^{g_n} \braket{\Psi | u_n^i} \braket{u_n^i | \Psi} = \sum\limits_{i=1}^{g_n} C_n^{i\mathsf{x}} C_n^i = \sum\limits_{i=1}^{g_n} \vert u_n^i \vert^2
+P(a_n) = \braket{\Psi_n | \Psi} = \braket{\Psi | P_n^\dagger | \Psi} = \braket{\Psi | P_n | \Psi} = \sum\limits_{i=1}^{g_n} \braket{\Psi | u_n^i} \braket{u_n^i | \Psi} = \sum\limits_{i=1}^{g_n} C_n^{i\mathsf{x}} C_n^i = \sum\limits_{i=1}^{g_n} \vert C_n^i \vert^2
 \end{equation*}
 
 \subsubsection{Quatrième postulat}
@@ -938,7 +940,18 @@ $g_n$ est le degré de dégénérescence de la valeur propre $a_n$ et $\lbrace \
 \paragraph*{Remarque :}
 Si $a_n$ est simple, on ignore l'exposant : $P(a_n) = \vert \braket{u_n | \Psi} \vert^2 = \vert C_n \vert^2$.\\
 
-Si $\ket\Psi$ est non normée : $P(a_n) = \sum\limits_n^{g_n} \vert C_n^i \vert^2$.
+Si $\ket\Psi$ est non normée :
+
+\begin{equation*}
+P(a_n) = \sum\limits_n^{g_n} \frac{\vert C_n^i \vert^2}{\braket{\Psi \vert \Psi}}
+\end{equation*}
+
+Et si dans le cas de $a_n$ non dégénérée : 
+
+\begin{equation*}
+\frac{\vert C_n \vert^2}{\braket{\Psi \vert \Psi}}
+\end{equation*}
+
 
 \subsubsection{C : Réduction du paquets d'ondes}
 
@@ -989,7 +1002,7 @@ L'évolution dans le temps du vecteur d'état $\ket\Psi$ est régie par l'équat
 \begin{equation*}
 i \hbar \frac{d}{dt} \ket{\Psi(t)} = H(t) \ket{\Psi(t)}
 \end{equation*}
-\textit{H(t)} est l'observable associé à l'énergie totale du système. \textit{H} est appelé l'opérateur hamiltonien du système.
+\textit{H(t)} est l'observable associé à l'énergie totale du système. \textit{H(t)} est appelé l'opérateur hamiltonien du système.
 \subsection{Règle de quantification}
 \paragraph*{Énoncé :}
 Comment construire un opérateur en mécanique quantique d'une grandeur physique $\mathcal{A}$ déjà définit en mécanique classique ?\\
@@ -1161,9 +1174,12 @@ L'ordre dans lequel on mesure les observables est sans importance. Ces observabl
 \begin{equation*}
 i \hbar \frac{d}{dt} \ket\Psi = H \ket\Psi
 \end{equation*}
-Cette expression indique que la connaissance de l'état d'un système à un instant t suffit pour connaître son état à tout moment ultérieur (\textit{H} étant connu).
+Cette expression indique que la connaissance de l'état d'un système à un instant t suffit pour connaître son état à tout moment ultérieur (\textit{H} étant connu).\\
+
+L'indéterminisme concerne le résultat de la mesure.
+
 \subsubsection{B : Le principe de superposition}
-Le principe déterministe peut être généralisé à toute combinaison linéaire de kets de l'espace des états. Par exemple :
+Le principe déterministe peut être généralisé à toute combinaison linéaire de kets de l'espace des états $\mathcal{E}$. Par exemple :
 \begin{equation*}
 \ket\Psi = \alpha \ket{\Psi_1} + \beta \ket{\Psi_2}
 \end{equation*}
@@ -1180,6 +1196,9 @@ D'où :
 \begin{equation*}
 \frac{d}{dt} \braket{\Psi (t) | \Psi (t)} = 0
 \end{equation*}
+
+La norme d'un ket est donc constante.
+
 \subsubsection{D : Évolution de la valeur moyenne d'une observable}
 Regardons le lien avec la mécanique classique. Soit \textit{A} une observable et $\ket{\Psi (t)}$ est un état normé d'un système physique. La valeur moyenne de \textit{A} dans l'état $\ket{\Psi (t)}$ : $\braket{\Psi (t) |A| \Psi (t)}$. Elle dépend du temps par l'intermédiaire de $\ket{\Psi (t)}$ et aussi par $A(t)$ dans certaines situation. $A(t)$ dépend explicitement du temps. On se propose d'évaluer l'évolution en fonction du temps de $\braket{A(t)} \Psi$.
 
@@ -1197,7 +1216,7 @@ la constante du mouvement de toute observable qui ne dépend pas du temps et qui
 $A$ est une constante du mouvement : $\frac{d}{dt} \braket{A}\Psi = 0$
 
 \subsubsection{E : Cas d'un système conservatif}
-On appelle système conservatif tout système dont l'hamiltonien est indépendant du temps. Remarque : pour un système conservatif, l'hamiltonien est une constante du mouvement.
+On appelle système conservatif tout système dont l'hamiltonien est explicitement indépendant du temps. Remarque : pour un système conservatif, l'hamiltonien est une constante du mouvement.
 \subsubsection{F : Résolution de l'équation de Schrödinger}
 Considérons un système physique, $H$ est son hamiltonien. Soit $E_n$ avec $n = 1, \ldots, N$ sont les valeurs propres de $H$ associées aux kets propres $\ket{u_n^i}$ avec $i = 1, \ldots, g_n$ (les valeurs propres $a_n$ sont en générales dégénérées et $H$ n'est pas un ensemble complet d'observables qui commutent).
 
@@ -1253,7 +1272,7 @@ Dans le cas où $E_n$ n'est pas dégénérée :
 \end{align*}
 $\ket{\Psi (t)}$ et $\ket{\Psi (t_0)}$ décrivent le même état.
 
-\subsubsection{Complément : Opérateur d'évolution}
+\subsection{Complément : Opérateur d'évolution}
 
 L'opérateur d'évolution permet de passer de $\ket{\Psi (t)}$ à $\ket{\Psi (t)}$, on le note : $U(t ; t_0)$. Par définition : $U(t ; t_0) = I$ \textbf{(1)}.
 
@@ -1304,17 +1323,17 @@ Calcul de l'opération d'évolution infinitésimal :
 \begin{align*}
 d \ket{\Psi (t)} &= \ket{\Psi (t+dt)} - \ket{\Psi (t)} = -\frac{i}{\hbar} H(t) \ket{\Psi (t)} dt\\
 \ket{\Psi (t+dt)} &= d \ket{\Psi (t)} + \ket{\Psi (t)} = U(t+dt, t) \ket{\Psi (t)}\\
-U(t+dt)\ket{\Psi (t)} &= -\frac{i}{\hbar}\ket{\Psi (t)} + \ket{\Psi (t)} = \left( I \frac{-i}{\hbar} H(t) \right) \ket{\Psi (t)}
+U(t+dt)\ket{\Psi (t)} &= -\frac{i}{\hbar} dt \ket{\Psi (t)} + \ket{\Psi (t)} = \left( I \frac{-i}{\hbar} dt H(t) \right) \ket{\Psi (t)}
 \end{align*}
 
 D'où :
 \begin{equation*}
-U (t+dt, t) = I \frac{-i}{\hbar} H(t)
+U (t+dt, t) = I \frac{-i}{\hbar} dt H(t)
 \end{equation*}
 
 $H$ est hermitien :$H^\dagger = H$
 \begin{equation*}
-U(t+dt, t)^\dagger = I \frac{i}{\hbar} H(t)
+U(t+dt, t)^\dagger = I \frac{i}{\hbar} H(t) dt
 \end{equation*}
 
 Si nous multiplions maintenant, au premier ordre :
@@ -1329,7 +1348,7 @@ U(t, t_0) = U(t+dt, t_0), U(t_0+dt_0, t_0+dt_0), \ldots
 \end{equation*}
 Le produit de N opérateur unitaires est un opérateur unitaire, d'où $U(, t_0)$ est unitaire. C'est à dire que l'opérateur d'évolution conserve la norme.
 
-\subsubsection{Cas d'un système conservatif}
+\subsection{Cas d'un système conservatif}
 $H$ est explicitement indépendant du temps. Dans cette situation, on peut résoudre l'équation d'évolution de $U(t, t_0)$.
 \begin{align*}
 i\hbar \frac{d}{dt} U(t,t_0) &= HU(t, t_0)\\

@@ -44,7 +44,7 @@
 \contentsline {subsection}{\numberline {1.4.1}Vecteurs propres et valeurs propres d'un opérateur}{19}%
 \contentsline {subsubsection}{A : Recherche des valeurs propres d'un opérateur}{20}%
 \contentsline {subsubsection}{B : L'équation caractéristique}{20}%
-\contentsline {subsubsection}{B : Détermination des vecteurs propres}{21}%
+\contentsline {subsubsection}{C : Détermination des vecteurs propres}{21}%
 \contentsline {subsection}{\numberline {1.4.2}Les Observables}{21}%
 \contentsline {subsubsection}{A : Propriétés des valeurs et vecteurs propres d'un opérateur hermitique}{21}%
 \contentsline {subsubsection}{B : Définition d'une observable}{22}%
@@ -73,11 +73,11 @@
 \contentsline {subsubsection}{A : Déterminisme}{31}%
 \contentsline {subsubsection}{B : Le principe de superposition}{31}%
 \contentsline {subsubsection}{C : Conservation de la norme d'un ket}{31}%
-\contentsline {subsubsection}{D : Évolution de la valeur moyenne d'une observable}{31}%
+\contentsline {subsubsection}{D : Évolution de la valeur moyenne d'une observable}{32}%
 \contentsline {subsubsection}{E : Cas d'un système conservatif}{32}%
 \contentsline {subsubsection}{F : Résolution de l'équation de Schrödinger}{32}%
-\contentsline {subsubsection}{Complément : Opérateur d'évolution}{33}%
-\contentsline {subsubsection}{Cas d'un système conservatif}{34}%
+\contentsline {subsection}{\numberline {2.3.2}Complément : Opérateur d'évolution}{33}%
+\contentsline {subsection}{\numberline {2.3.3}Cas d'un système conservatif}{34}%
 \contentsline {chapter}{\numberline {3}LE MAGNÉTISME ATOMIQUE}{37}%
 \contentsline {section}{\numberline {3.1}Introduction}{37}%
 \contentsline {section}{\numberline {3.2}Magnétisme classique}{38}%
